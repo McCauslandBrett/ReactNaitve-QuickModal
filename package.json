@@ -1,0 +1,31 @@
+{
+  "name": "rn-qmodal",
+  "version": "0.0.5",
+  "description": "Quick Deployable Modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McCauslandBrett/ReactNaitve-QuickModal.git"
+  },
+  "keywords": [
+    "rn-qmodal"
+  ],
+  "author": "McCausland, Brett",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types":"^15.7.2",
+    "galio-framework": "0.6.3",
+    "react-native-swipe-gestures":"^1.0.5"
+  },
+  "peerDependencies": {
+    "react":"^16.3.2",
+    "react-native":"^0.55.4"
+  },
+  "bugs": {
+    "url": "https://github.com/McCauslandBrett/ReactNaitve-QuickModal/issues"
+  },
+  "homepage": "https://github.com/McCauslandBrett/ReactNaitve-QuickModal#readme"
+}
